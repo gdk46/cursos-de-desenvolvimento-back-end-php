@@ -1,0 +1,12 @@
+{
+    "name": "user/src",
+    "authors": [
+        {
+            "name": "Gleisson Neves",
+            "email": "53718407+gdk46@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.1"
+    }
+}
